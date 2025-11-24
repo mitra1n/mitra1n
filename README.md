@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 👋 Привет, я Егор
+
+Я студент и специалист в области информационной безопасности.  
+Интересуюсь пентестом, анализом уязвимостей и защитой систем.
+
+## 🚀 Направления
+- Penetration Testing
+- Web Security
+- Linux / Win Hardening
+- OSINT / Threat Intelligence
+
+## 🛠 Технологии и инструменты
+- Языки: Python, Bash, Go
+- OS: Linux (Kali, Parrot, Ubuntu, Arch), Windows
+- Инструменты: Nmap, Burp Suite, Metasploit, Wireshark
